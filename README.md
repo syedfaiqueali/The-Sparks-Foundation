@@ -2,19 +2,12 @@
 <br />
 <p align="center">
   <a href="https://github.com/faiqueali017/The-Sparks-Foundation">
-    <img src="images/logo.png" alt="Logo" width="400" height="400">
+    <img src="images/logo.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">The Sparks Foundation</h3>
 
   <p align="center">
-    In this I'm structuring tasks that I completed while working as an intern for [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
-
-    <ul>
-      <li><b>Internship Category</b> - Data Science and Business Analytics</li>
-      <li><b>Internship Duration</b> - 1 Month (September Batch - 2021)</li>
-      <li><b>Internship Type</b>- Work from Home</li>
-    </ul>
     <br />
     <a href="https://github.com/faiqueali017/The-Sparks-Foundation"><strong>Explore the docs »</strong></a>
     <br />
@@ -27,6 +20,12 @@
   </p>
 </p>
 
+
+
+In this I'm structuring tasks that I completed while working as an intern for [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
+- **Internship Category** - Data Science and Business Analytics
+- **Internship Duration** - 1 Month (September Batch - 2021)
+- **Internship Type** - Work from Home
 
 
 <!-- TASK 1 -->
