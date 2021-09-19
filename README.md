@@ -30,7 +30,7 @@ In this I'm structuring tasks that I completed while working as an intern for [T
 
 <!-- TASK 1 -->
 
-<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/faiqueali017/The-Sparks-Foundation/blob/main/Task_1%20Prediction%20Using%20Supervised%20ML/Task_1%20Prediction%20Using%20Supervised%20ML.ipynb)
 
 
