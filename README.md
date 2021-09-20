@@ -30,7 +30,7 @@ In this I'm structuring tasks that I completed while working as an intern for [T
 
 <!-- TASK 1 -->
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=ksq0CL4ZrC4)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/faiqueali017/The-Sparks-Foundation/blob/main/Task_1%20Prediction%20Using%20Supervised%20ML/Task_1%20Prediction%20Using%20Supervised%20ML.ipynb)
 
 
@@ -47,7 +47,7 @@ _Please click on the images on right side to view my solution._
 
 <!-- TASK 2 -->
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/Uv-d6PRphp4)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=MOUPQbLD6NE)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/faiqueali017/The-Sparks-Foundation/blob/main/Task_2%20Prediction%20Using%20Unsupervised%20ML/Task_2%20Prediction%20Using%20Unsupervised%20ML.ipynb)
 
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
@@ -63,8 +63,8 @@ _Please click on the images on right side to view my solution._
 
 <!-- TASK 3 -->
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/N4AFlnEoigk)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](shorturl.at/wzEJO)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/playlist?list=PLwWEREsMKfxZsqOsC5IJraTyVYYWz52UR)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/faiqueali017/The-Sparks-Foundation)
 
 ### # Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
 _Please click on the images on right side to view my solution (preferably youtube)._
@@ -80,8 +80,8 @@ _Please click on the images on right side to view my solution (preferably youtub
 
 <!-- TASK 4 -->
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/N4AFlnEoigk)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](shorturl.at/uHIN9)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/playlist?list=PLwWEREsMKfxZsqOsC5IJraTyVYYWz52UR)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/faiqueali017/The-Sparks-Foundation)
 
 ### # Task-4 : To Explore Security/Defence Analytics (Level - Intermediate)
 _Please click on the images on right side to view my solution (preferably youtube)._
@@ -98,8 +98,8 @@ _Please click on the images on right side to view my solution (preferably youtub
 
 <!-- TASK 5 -->
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/N4AFlnEoigk)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](shorturl.at/itOUV)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/playlist?list=PLwWEREsMKfxZsqOsC5IJraTyVYYWz52UR)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/faiqueali017/The-Sparks-Foundation)
 
 ### # Task-5 : To Explore Sports Analytics (Level - Advanced)
 _Please click on the images on right side to view my solution (preferably youtube)._
@@ -113,7 +113,7 @@ _Please click on the images on right side to view my solution (preferably youtub
 
 
 
-You can view all the tasks on my [youtube playlist](https://www.youtube.com/playlist?list=PLWA7Ml8Rq3KfV6QSeO_Hr9t0xbfc-Xdg2) as well.
+You can view all the tasks on my [youtube playlist](https://www.youtube.com/playlist?list=PLwWEREsMKfxZsqOsC5IJraTyVYYWz52UR) as well.
 
 <!-- CONTACT -->
 ## Contact
