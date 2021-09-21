@@ -63,7 +63,7 @@ _Please click on the images on right side to view my solution._
 
 <!-- TASK 3 -->
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/playlist?list=PLwWEREsMKfxZsqOsC5IJraTyVYYWz52UR)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=4WJdYu0Ku8U)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/faiqueali017/The-Sparks-Foundation)
 
 ### # Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
@@ -80,7 +80,7 @@ _Please click on the images on right side to view my solution (preferably youtub
 
 <!-- TASK 4 -->
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/playlist?list=PLwWEREsMKfxZsqOsC5IJraTyVYYWz52UR)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=4DvtC89U5Kc)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/faiqueali017/The-Sparks-Foundation)
 
 ### # Task-4 : To Explore Security/Defence Analytics (Level - Intermediate)
@@ -98,7 +98,7 @@ _Please click on the images on right side to view my solution (preferably youtub
 
 <!-- TASK 5 -->
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/playlist?list=PLwWEREsMKfxZsqOsC5IJraTyVYYWz52UR)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=RbqaQunOJTY)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/faiqueali017/The-Sparks-Foundation)
 
 ### # Task-5 : To Explore Sports Analytics (Level - Advanced)
